@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Oct 22 13:16:52 CEST 2014
+smartcom-core-1.0-SNAPSHOT.jar>=
+smartcom-core-1.0-SNAPSHOT.pom>=
+smartcom-core-1.0-SNAPSHOT-tests.jar>=
