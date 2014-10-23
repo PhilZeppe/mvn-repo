@@ -1,4 +1,5 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Wed Oct 22 13:17:14 CEST 2014
+#Thu Oct 23 13:01:17 CEST 2014
 smartcom-rest-1.0-SNAPSHOT.pom>=
 smartcom-rest-1.0-SNAPSHOT.jar>=
+smartcom-rest-1.0-SNAPSHOT-sources.jar>=
